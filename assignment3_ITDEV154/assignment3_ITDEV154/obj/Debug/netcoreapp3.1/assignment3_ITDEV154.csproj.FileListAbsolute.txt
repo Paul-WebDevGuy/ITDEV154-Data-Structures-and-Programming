@@ -1,0 +1,13 @@
+C:\code\MATC\itdev154-fa2022\assignment3_ITDEV154\assignment3_ITDEV154\bin\Debug\netcoreapp3.1\assignment3_ITDEV154.exe
+C:\code\MATC\itdev154-fa2022\assignment3_ITDEV154\assignment3_ITDEV154\bin\Debug\netcoreapp3.1\assignment3_ITDEV154.deps.json
+C:\code\MATC\itdev154-fa2022\assignment3_ITDEV154\assignment3_ITDEV154\bin\Debug\netcoreapp3.1\assignment3_ITDEV154.runtimeconfig.json
+C:\code\MATC\itdev154-fa2022\assignment3_ITDEV154\assignment3_ITDEV154\bin\Debug\netcoreapp3.1\assignment3_ITDEV154.runtimeconfig.dev.json
+C:\code\MATC\itdev154-fa2022\assignment3_ITDEV154\assignment3_ITDEV154\bin\Debug\netcoreapp3.1\assignment3_ITDEV154.dll
+C:\code\MATC\itdev154-fa2022\assignment3_ITDEV154\assignment3_ITDEV154\bin\Debug\netcoreapp3.1\assignment3_ITDEV154.pdb
+C:\code\MATC\itdev154-fa2022\assignment3_ITDEV154\assignment3_ITDEV154\obj\Debug\netcoreapp3.1\assignment3_ITDEV154.csprojAssemblyReference.cache
+C:\code\MATC\itdev154-fa2022\assignment3_ITDEV154\assignment3_ITDEV154\obj\Debug\netcoreapp3.1\assignment3_ITDEV154.AssemblyInfoInputs.cache
+C:\code\MATC\itdev154-fa2022\assignment3_ITDEV154\assignment3_ITDEV154\obj\Debug\netcoreapp3.1\assignment3_ITDEV154.AssemblyInfo.cs
+C:\code\MATC\itdev154-fa2022\assignment3_ITDEV154\assignment3_ITDEV154\obj\Debug\netcoreapp3.1\assignment3_ITDEV154.csproj.CoreCompileInputs.cache
+C:\code\MATC\itdev154-fa2022\assignment3_ITDEV154\assignment3_ITDEV154\obj\Debug\netcoreapp3.1\assignment3_ITDEV154.dll
+C:\code\MATC\itdev154-fa2022\assignment3_ITDEV154\assignment3_ITDEV154\obj\Debug\netcoreapp3.1\assignment3_ITDEV154.pdb
+C:\code\MATC\itdev154-fa2022\assignment3_ITDEV154\assignment3_ITDEV154\obj\Debug\netcoreapp3.1\assignment3_ITDEV154.genruntimeconfig.cache
